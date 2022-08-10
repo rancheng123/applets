@@ -1,0 +1,24 @@
+
+.userinfo.data-v-6b277275 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.userinfo-avatar.data-v-6b277275 {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+.userinfo-nickname.data-v-6b277275 {
+  color: #aaa;
+}
+.usermotto.data-v-6b277275 {
+  margin-top: 300rpx;
+}
+.form-control.data-v-6b277275 {
+  display: block;
+  padding: 0 24rpx;
+  margin-bottom: 10rpx;
+  border: 2rpx solid #ccc;
+}
